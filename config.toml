@@ -1,0 +1,72 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "wow is the future!"
+theme = "hugo-nes-classic"
+enableEmoji = "true"
+paginate = 3
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+
+[menu]
+
+  [[menu.main]]
+    name = "Quick Start"
+    url = "/quickstart/"
+    weight = -40
+
+  [[menu.main]]
+    name = "Introduction"
+    url = "/intro/"
+    weight = -50
+
+  [[menu.main]]
+    name = "Advanced"
+    url = "/advanced/"
+    weight = -30
+
+  [[menu.main]]
+    identifier = "Downloads"
+    name = "Downloads"
+    url = "/downloads/"
+    weight = -20
+
+  [[menu.main]]
+    identifier = "About"
+    name = "Trade"
+    url = "/trade/"
+    weight = -10
+
+
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[privacy]
+
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
+
+  [privacy.instagram]
+    disabled = false
+    simple = true
+
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+[services]
+
+  [services.instagram]
+    disableInlineCSS = true
+
+  [services.twitter]
+    disableInlineCSS = true
