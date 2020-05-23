@@ -76,7 +76,7 @@ List of available languages for your wallet's seed:
 5 : Russian
 6 : Japanese
 Enter the number corresponding to the language of your choice: 0
-Generated new wallet: 47CL7FiNtW417VjzWt9Zse8Z8URhaHaA2L9jJq6rrLtDhiYK9PfbCavhhMKws9xEdKHBeGcQtJmPt4uEMivooNztC5UkHLD
+Generated new wallet: Wo3MWeKwtA918DU4c69hVSNgejdWFCRCuWjShRY66mJkU2Hv58eygJWDJS1MNa2Ge5M1WjUkGHuLqHkweDxwZZU42d16v94mP
 View key: 005c98c3db115140289bd0dfad97f910e6eeb5e8e12d02fdd4ab2373fbe9110a
 **********************************************************************
 Your wallet has been generated!
@@ -101,8 +101,8 @@ Background refresh thread started
 
 Type "address" to see your public wallet address. You can give this address to anyone, and they will be able to send you Wownero. However, NEVER give anyone your 25 word SEED.
 ```
-[wallet 47CL7F]: address
-47CL7FiNtW417VjzWt9Zse8Z8URhaHaA2L9jJq6rrLtDhiYK9PfbCavhhMKws9xEdKHBeGcQtJmPt4uEMivooNztC5UkHLD
+[wallet Wo3MWe]: address
+Wo3MWeKwtA918DU4c69hVSNgejdWFCRCuWjShRY66mJkU2Hv58eygJWDJS1MNa2Ge5M1WjUkGHuLqHkweDxwZZU42d16v94mP
 ```
 
 ## Generate Wow with CLI
