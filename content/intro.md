@@ -22,6 +22,7 @@ Wownero is a fairly launched coin with no premine, instamine, or dev tax.
 
 ## WTF does that mean?
 
+![NoOne](/noone.jpg)
 
 How Wownero can help you?
 
@@ -35,9 +36,10 @@ Check the balance of the 2 apple from app2 go to your wallet add the apple with 
 
 "Wownero will place an order with the exact amount of the apples placed in Bitcoin. This will give you the coins instantly".
 
-Wownero is already in talks with several other exchanges on exchanges like Poloniex, but I am unable to reveal their identities at this stage.
+Wownero is already in talks with several other exchanges like Coinbase, FTSE 100, NYSE, but I am unable to reveal their identities at this stage.
 
+![WOW](/tenor.gif)
 
-![WOW](/clinton.gif)
+Mining WOW is scientifically proven to increase testosterone and vitality. And she'll like it too. Ask Frank Thomas.
 
 Wow! Wow! Wow!
