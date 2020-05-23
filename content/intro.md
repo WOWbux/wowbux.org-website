@@ -10,7 +10,7 @@ tags = [
 
 ## What is Wow?
 
-![stonks](/stonks.gif)
+![brent_rambo](/brent_rambo.gif)
 
 Wownero is a CPU-mineable memecoin. It is a software fork of Monero with a lite version of RandomX (1MB scratchpad), a ring size of 22, and a faster difficulty adjustment.
 
