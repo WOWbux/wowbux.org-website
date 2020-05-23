@@ -107,9 +107,7 @@ Type "address" to see your public wallet address. You can give this address to a
 
 ## Generate Wow with CLI
 
-There will be no support for pools or mining software in the upcoming fork. 
-
-To solo generate, follow these directions:
+To solo mine, follow these directions:
 
 ### Windows 10
 
