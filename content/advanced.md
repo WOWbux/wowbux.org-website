@@ -12,24 +12,25 @@ author = "Hugo Authors"
 ### LINUX
 Download the Linux 64-bit command line client and extract it
 ```
-wget https://downloads.getwownero.org/linux64
-tar jxvf linux64
+wget https://github.com/wownero/wownero/releases/download/v0.8.0.0/wownero_Linux_v0.8.tar.xz
+tar -xf wownero_Linux_v0.8.tar.xz
+cd wownero_Linux_v0.8
 ```
 
-### MAC
+### MACOS
 Download the Mac command line client and extract it
 ```
-wget https://downloads.getwownero.org/mac64
-tar jxvf mac64
+wget hhttps://github.com/wownero/wownero/releases/download/v0.8.0.0/wownero_macOS_v0.8.dmg
+double-click wownero_macOS_v0.8.dmg and drag folder to desired destination
+open wownero folder
 ```
 
 ### WINDOWS
-Create a new folder with Windows File Explorer, and use your web browser to download the following file to the new folder
-https://downloads.getwownero.org/win64
-
-Double click the Wownero zip file that has been downloaded to extract it. Then open Command Prompt. Use the 'cd' command to naviate to your new folder
+Download the Mac command line client and extract it
 ```
-cd wownero
+wget https://github.com/wownero/wownero/releases/download/v0.8.0.0/wownero_win64_v0.8.zip
+unzip wownero_win64_v0.8.zip
+cd wownero_win64_v0.8
 ```
 
 ## Run the Wownero daemon
