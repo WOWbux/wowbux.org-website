@@ -2,9 +2,6 @@
 author = "Babylen Tatarsky"
 title = "Introduction"
 description = "Intro to the WOW"
-tags = [
-    "intro",
-]
 +++
 
 

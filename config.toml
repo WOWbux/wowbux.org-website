@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://wowbux.org/"
 languageCode = "en-us"
 title = "wow is the future!"
 theme = "hugo-nes-classic"
@@ -7,6 +7,11 @@ paginate = 3
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[sitemap]
+  ChangeFreq = "daily"
+  Priority = "1"
 
 [menu]
 
