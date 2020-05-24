@@ -60,39 +60,52 @@ wownero-wallet-cli.exe
 Follow the instructions displayed to create a new wallet. When told the 25 word SEED, write this down on paper and keep it in a very safe place. Even if you forget your passwords, the 25 word SEED can be used to recreate your wallet from any machine and have complete control over your Wownero funds. Sample output from the Wownero wallet is below:
 
 ```
+This is the command line wownero wallet. It needs to connect to a wownero
+daemon to work correctly.
+
+Wownero 'Hallucinogenic Hypnotoad' (v0.8.0.0-release)
+Logging to ./wownero-wallet-cli.log
 Specify wallet file name (e.g., MyWallet). If the wallet doesn't exist, it will be created.
-Wallet file name (or Ctrl-C to quit): testwallet
-No wallet found with that name. Confirm creation of new wallet named: testwallet
-(Y/Yes/N/No): Y
+Wallet file name (or Ctrl-C to quit): fluffydoge
+No wallet found with that name. Confirm creation of new wallet named: fluffydoge
+  (Y/Yes/N/No): Yes
 Generating new wallet...
-Enter a password for your new wallet:  ********
-Confirm Password: ********
+Enter a new password for the wallet: 
+Confirm password: 
 List of available languages for your wallet's seed:
-0 : English
-1 : Spanish
-2 : German
-3 : Italian
-4 : Portuguese
-5 : Russian
-6 : Japanese
-Enter the number corresponding to the language of your choice: 0
-Generated new wallet: Wo3MWeKwtA918DU4c69hVSNgejdWFCRCuWjShRY66mJkU2Hv58eygJWDJS1MNa2Ge5M1WjUkGHuLqHkweDxwZZU42d16v94mP
-View key: 005c98c3db115140289bd0dfad97f910e6eeb5e8e12d02fdd4ab2373fbe9110a
+If your display freezes, exit blind with ^C, then run again with --use-english-language-names
+0 : Deutsch
+1 : English
+2 : Español
+3 : Français
+4 : Italiano
+5 : Nederlands
+6 : Português
+7 : русский язык
+8 : 日本語
+9 : 简体中文 (中国)
+10 : Esperanto
+11 : Lojban
+Enter the number corresponding to the language of your choice: 1
+Generated new wallet: Wo534GxY9infzdbWYqkwMwXe4dbJiXMDmZM3Hne3kKYQ6uHNEfKN6euGHhMKLvdPKBe3TTvVn2bK8Rx2akym2gsG38cMK477x
+View key: 0862e2836066ca7b56a1f4715e379598af485a18c9563671b893a4722a04c101
 **********************************************************************
 Your wallet has been generated!
-To start synchronizing with the daemon, use "refresh" command.
-Use "help" command to see the list of available commands.
-Always use "exit" command when closing wownero-wallet-cli to save your
-current session's state. Otherwise, you might need to synchronize
+To start synchronizing with the daemon, use the "refresh" command.
+Use the "help" command to see a simplified list of available commands.
+Use the "help_advanced" command to see an advanced list of available commands.
+Use "help_advanced <command>" to see a command's documentation.
+Always use the "exit" command when closing wownero-wallet-cli to save 
+your current session's state. Otherwise, you might need to synchronize 
 your wallet again (your wallet keys are NOT at risk in any case).
 
 
-PLEASE NOTE: the following 25 words can be used to recover access to your wallet. Please write them down and store them somewhere safe and secure. Please do not store them in your email or on file storage services outside of your immediate control.
+NOTE: the following 25 words can be used to recover access to your wallet. Write them down and store them somewhere safe and secure. Please do not store them in your email or on file storage services outside of your immediate control.
 
-locker welders womanly lodge gumball selfish altitude dewdrop
-terminal nagged exit acquire hookup ashtray wobbly nineteen
-duration duties javelin patio baffles ambush bamboo bite nineteen
-**********************************************************************
+copy rays orders nirvana skew inundate inquest beer
+lair likewise hills unjustly yoyo journal basin gourmet
+ringing jabbed hacksaw juggled vats divers likewise muffin vats
+
 Starting refresh...
 Refresh done, blocks received: 0
 Balance: 0.000000000000, unlocked balance: 0.000000000000
@@ -137,3 +150,18 @@ To solo mine, follow these directions:
 ### MacOS
 
 Same as Linux
+
+
+
+## Generate Wow with xmrig
+How to mine wownero? You can use xmrig to mine wow on pools.
+
+### Install xmrig
+Get xmrig from [xmrig releases](https://github.com/xmrig/xmrig/releases)
+
+### Run xmrig
+Run xmrig with the following flags (don't forget to set your address!)
+```
+./xmrig -o pool.wowne.ro:7777 -u Wo3MWeKwtA918DU4c69hVSNgejdWFCRCuWjShRY66mJkU2Hv58eygJWDJS1MNa2Ge5M1WjUkGHuLqHkweDxwZZU42d16v94mP -p fluffydoge -a rx/wow --cpu-priority 0
+```
+

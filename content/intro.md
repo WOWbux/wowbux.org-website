@@ -40,6 +40,6 @@ Wownero is already in talks with several other exchanges like Coinbase, FTSE 100
 
 ![WOW](/tenor.gif)
 
-Mining WOW is scientifically proven to increase testosterone and vitality. And she'll like it too. Ask Frank Thomas.
+[Mining WOW](http://wowbux.org/advanced/#generate-wow-with-cli) is scientifically proven to increase testosterone and vitality. And she'll like it too. Ask Frank Thomas.
 
 Wow! Wow! Wow!
