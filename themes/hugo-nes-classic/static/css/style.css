@@ -13,6 +13,10 @@ pre {
 }
 
 
+img {
+  max-width: 100%;
+  height: auto;
+}
 
 .main-centered {
   margin-left: auto;
@@ -139,11 +143,26 @@ a {
   .github-link {
     display: none;
   }
+
+  div.rightbottom {
+    right: 2px;
+    bottom: 1px;
+    position: fixed; 
+    visibility: hidden;
+    clear: both;
+    display: none;
+    width: 150px;
+  }
 }
 
 
 div.rightbottom {
-right: 2px;
-bottom: 1px;
-position: fixed; 
+  right: 2px;
+  bottom: 1px;
+  position: fixed;
+  width: 150px;
+}
+
+div.webring {
+  width: 200px;
 }
