@@ -156,6 +156,7 @@ a {
 }
 
 
+
 div.rightbottom {
   right: 2px;
   bottom: 1px;
@@ -165,4 +166,20 @@ div.rightbottom {
 
 div.webring {
   width: 200px;
+}
+
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: fill;
+}
+
+div.404 {
+    position: absolute;
+    top: 40px; /* Header Height */
+    bottom: 20px; /* Footer Height */
+    width: 100%;
 }
