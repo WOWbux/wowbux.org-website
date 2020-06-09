@@ -14,7 +14,7 @@ Click downloads at the top of the page and choose the version for your operating
 
 ## Running wowlite
 
-![](https://raw.githubusercontent.com/wiki/qvqc/wowlite/images/wowlite.gif)
+![](/wowlite.gif)
 
 ### MacOS
 Wowlite should now be in your available applications, add to launcher for convienence. 
