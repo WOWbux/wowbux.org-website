@@ -37,10 +37,16 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     weight = -20
 
   [[menu.main]]
-    identifier = "About"
+    identifier = "Bounty"
+    name = "Bounty"
+    url = "https://funding.wownero.com/"
+    weight = -10
+
+  [[menu.main]]
+    identifier = "Trade"
     name = "Trade"
     url = "/trade/"
-    weight = -10
+    weight = -5
 
 
 
