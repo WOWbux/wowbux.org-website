@@ -45,12 +45,12 @@ Wow! Wow! Wow!
 
 ## WOW Scientific and Technological Advanced Research Laboratories 
 
-A warning 
+### A warning for the newly initiated  
 
 The "Three Initiates" who authored WOW choose to remain anonymous. If you are reading this it is because you are meant to be reading this, those who are not ready for the knowledge herein contained should be warned that their minds and reality risk being warped and twisted to such a point that they might loose their minds. Any person with a fragile mind or mental disorder should not embark on this journey. It is for this reason that the WOW research papers are divided into many parts some publically available some hidden behind challenges each diving deeper into not only the technology but the physics, economic principles, cryptographic principles and the information theory underpinning meme culture and WoWs network effect.
 
 
-In the begining there were Bits
+### In the begining there were Bits
 
 Most people know about Bitcoin but havnt the faintest clue what a bit is or how it describes the world. Before we can begin a conversation about cryptocurrencies or Bitcoin we must first understand what a Bit truly is and where it came from. Our story begins in 1948, when Bell Labs invented the transistor, that same year Claude Shannon an American mathematician, electrical engineer, and cryptographer published “A Mathematical Theory of Communication” in which he described the shannon (symbol: Sh), more commonly known as the bit "A unit for measuring information". Shannon made his particular detour into a field yet unnamed, strewn with questions and possibilities, which he would soon christen “information theory” and which would go on to become the underlying sensemaking framework of modern consciousness. Shannon, like computing pioneer Alan Turing, was particularly enchanted by the “chain of abstraction and conversion” entailed in cryptography and puzzle-solving. When Turing himself visited Bell Labs in 1943, he occasionally lunched with Shannon and the two traded speculative theories about the future of computing. Shannon’s ideas impressed even a mind as unusual and far-seeing as Turing’s, who marveled about his American friend:
 
@@ -74,9 +74,13 @@ There will always be a cost to mine a WoW and the more mining power in the netwo
 
 Energy cannot be created or destroyed in an isolated system as the first law of thermodynamics clearly states. WOW though, can express how much energy that was sacrificed in order to acquire a share of a limited supply. Most importantly because it is ASIC resistant everyone has an equal chance to sacrifice energy at the same scale. You can of course, also acquire WOW by buying them rather than mining them, but in doing so you also spend energy. You somehow acquired the money you bought the WOW with and that somehow came to be because someone sacrificed time and energy somewhere. WOW lets you express that you see that there’s a connection between value and scarcity by sacrificing effort to be a part of the network.
 
+
+### Money and Communication 
+
 Transactions are a form of communication and every form of communication requires a communication channel in this case the WOW Blockchain. Shannon described "Channel capacity" as the tight upper bound on the rate at which information can be reliably transmitted over a communication channel. In essence the ability to send information with as few bits as possible had its upper limits. In much the same way each economic system is itself a communication channel for value ( information ) with its own upper limits for the rate at which value can be reliably transmitted over the newtork. The current and future distribution of any Fiat currency is not contained in the currency itself ( a dollar does not say how many dollars exist nor how many will be printed ) so in order to transmit the value ( information ) accross the world the sender and receiver need additional information about the money in circulation as well as any changes to monetary policy not to mention a host of other factors such as the stability of the country. All this information has to be transmitted as bits in order to understand the value and covert that information to energy. In contrast it is because the WOW blockchain is constrained to a fixed distribution based on a stable proof of work that when I receive a WOW both the sender and receiver need to transmit fewer Bits in order to extract the energy contained in the value information, they both alreay have the distribution and need not transmit more bits over time because the future distribution and monetary policy is fixed. It is through this measurement of channel capacity and bits that we can weigh the ideal economic system, one which trasmits value fairly across great distances with as few bits as possible. WOW.
 
-MEME Protections 
+
+### MEME Protections 
 
 MEMES and Network Effect are the most important aspects of electronic cash. It is therefore necessary that the relationship between the user and their memes must be untraceable by  anyone. In particular T.Oak Moot and H.Oath decribe two  properties  which  a  fully  memeable  electronic cash model must satisfy 
 
