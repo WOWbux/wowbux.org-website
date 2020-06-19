@@ -21,20 +21,77 @@ Wownero is a fairly launched coin with no premine, instamine, or dev tax.
 
 ![NoOne](/noone.jpg)
 
-How Wownero can help you?
+### ORANUS
 
-Wownero will create 2 versions of an apple.
+Every person is a cell of an organism, which is called Economy.
 
-1. Ethereum Apple 1 will have a value of 1 ether.
+But we call it simply ORANUS. Which translates into Russian as "moutharse".
 
-2. Bitcoin Apple will have a value of 2 bitcoins.
+Each of these cells,
 
-Check the balance of the 2 apple from app2 go to your wallet add the apple with the value you want the apple with
+that is, each individual, when regarded as an economic entity -
 
-"Wownero will place an order with the exact amount of the apples placed in Bitcoin. This will give you the coins instantly".
+possesses a kind of social membrane
 
-Wownero is already in talks with several other exchanges like Coinbase, FTSE 100, NYSE, but I am unable to reveal their identities at this stage.
+that allows money to pass into and out of the cell.
 
+This process is controlled by the nervous system of Oranus -
+
+TV and mass media.
+
+Person's identity is gradually displaced
+
+and individual becomes a programme watching another television programme.
+
+There are three types of pulses
+
+transmitted by Oranus throughout its virtual organism:
+
+oral, anal and displacing wow-impulses.
+
+from the commercial ejaculation 'wow!
+
+Homo homini lupus est, as one inspired Latin saying has it.
+
+But man has long ceased being a wolf to man.
+
+Man is not even an image-maker,
+
+not the dealer, not a killer and not an exclusive distributor to man.
+
+as some modern sociologists assume.
+
+It is all far more terrifying and much simpler than that.
+
+Man is wow to man.
+
+Or if not to man, but to precisely another such wow.
+
+So, projected on to the modem system of cultural coordinates
+
+the Latin saying becomes:
+
+Wow Wow Wow!
+
+## Om melafefon bva kha sha (It means "Please give me another cucumber".)
+
+### A natural born mantra if you put "hum" at the end...
+
+You have seen the technological space in which your world is being consumed by fire.
+
+The fire in which you burn has to be maintained.
+
+And you are one of the service personnel.
+
+That means you are one of those
+
+who force people to gaze into the consuming fire.
+
+You must admit that, it's better to warm yourself by the fire,
+
+than to burn in it.
+
+## WOW mining 
 ![WOW](/tenor.gif)
 
 [Mining WOW](http://wowbux.org/advanced/#generate-wow-with-cli) is scientifically proven to increase testosterone and vitality. And she'll like it too. Ask Frank Thomas.
