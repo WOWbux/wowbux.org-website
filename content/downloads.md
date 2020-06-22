@@ -14,9 +14,13 @@ author = "Babylen Tatarsky"
 
 [Wowlite macOS 0.1.4](https://github.com/wownero/wow-lite-wallet/releases/download/0.1.4/wowlite_macOS_0.1.4.dmg)
 
+
+## Get wow-app Graphical Interface
+
 ### Windows GUI
 
-[Wowlite Windows v0.8](https://github.com/wownero/wow-lite-wallet/releases/download/0.1.4/wowlite_win64_0.1.4.zip)
+[wow-app Windows v0.1](https://github.com/wownero/wow-app/releases/download/v0.1/wow-app_win64.zip)
+
 
 ## Get wownero Command Line Interface
 (The CLI wallet is for Advanced Users)
